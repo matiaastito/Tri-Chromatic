@@ -1,0 +1,26 @@
+helper/Constante.java
+ helper.Constante
+Models/Direction.java
+ Models.Direction
+ Models.Direction$1
+Models/AnimationSet.java
+ Models.AnimationSet
+com/mygdx/game/Setting.java
+ com.mygdx.game.Setting
+com/mygdx/game/MyGame.java
+ com.mygdx.game.MyGame
+Models/actor/Actor.java
+ Models.actor.Actor
+ Models.actor.Actor$ACTOR_STATE
+helper/TiledMapHelper.java
+ helper.TiledMapHelper
+Models/actor/LimitedWalkingBehavior.java
+ Models.actor.LimitedWalkingBehavior
+Controller/ControllerActor.java
+ Controller.ControllerActor
+com/mygdx/game/GameScreen.java
+ com.mygdx.game.GameScreen
+Controller/Interaction_Controller.java
+ Controller.Interaction_Controller
+Models/actor/Actor_Behavior.java
+ Models.actor.Actor_Behavior
